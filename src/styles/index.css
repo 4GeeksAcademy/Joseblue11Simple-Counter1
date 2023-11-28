@@ -1,18 +1,17 @@
-.counter {
-    font-size: 24px;
-    text-align: center;
-  }
-  
-  .button {
-    display: inline-block;
-    margin: 0 10px;
-    padding: 10px 20px;
-    background-color: #ccc;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-  }
-  
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 600;
+}
+
+.digitos{
+  background-color:rgb(36, 35, 35);
+  margin: 10px;
+  padding: 10px 15px;
+  border-radius: 10px;
+}  
 /* 
 
     You can write your own styles here...
